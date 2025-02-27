@@ -25,13 +25,13 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
+  &nbsp;
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 📌 Let's Connect!
 
-🔗  https://www.linkedin.com/in/gayatri-k-7180ba225/| 
+🔗 https://www.linkedin.com/in/shivani-ayyanagoudar-262162311/ 
 
 🔗 https://gayatri-k3.github.io/Gayatri-k3.Portfolio/
 
