@@ -33,6 +33,6 @@
 
 🔗 https://www.linkedin.com/in/shivani-ayyanagoudar-262162311/ 
 
-🔗 https://gayatri-k3.github.io/Gayatri-k3.Portfolio/
+🔗 https://shivani7795.github.io/Website1/
 
 🔗  shivaniayyanagoudar@gmail.com| 
