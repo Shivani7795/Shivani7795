@@ -5,8 +5,8 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science Engineering at AGM College of engineering and technology .
 - 💼 &nbsp; Doing Internship at X-Workz .
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
+- ✍️ &nbsp; Constantly looking to solve real-world problems through clean, maintainable code.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
